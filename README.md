@@ -1,5 +1,7 @@
 # ✨ AI Image Generation MERN App ✨
 
+<img width="2048" height="1848" alt="image" src="https://github.com/user-attachments/assets/d152432e-fe75-4e23-9fa2-1ae7b3c1822b" />
+
 This is a full-stack MERN (MongoDB, Express, React, Node.js) application that allows users to generate imaginative images using the Stability AI API and share them with the community.
 
 ## Features
